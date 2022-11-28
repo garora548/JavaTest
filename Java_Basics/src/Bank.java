@@ -3,7 +3,8 @@ public class Bank {
 	
 	int bal;
 	float interest;
-	
+	int x;
+	int y;
 	
 	 void calInt() {
 		   
